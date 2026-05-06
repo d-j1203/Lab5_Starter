@@ -1,5 +1,6 @@
 # Lab 5 - Starter
 https://d-j1203.github.io/Lab5_Starter/expose.html
+https://d-j1203.github.io/Lab5_Starter/explore.html
 
 Daniel John
 
